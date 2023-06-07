@@ -4,7 +4,7 @@
 
 Requirements
   - Pod de Kubernetes desplegando el contenedor ( carpeta kubert )
-  - imagen
+  - ![alt text](https://github.com/Sigma246/entregables/blob/main/kubert/kubert.png?raw=true)
 
 1) Set the api url on the file `src/lib/api/configuration`
 
