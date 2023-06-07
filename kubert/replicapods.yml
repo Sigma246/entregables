@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: entregable-pods
+  labels: 
+    type: deployment
+spec: 
+  template:
+    metadata:
+      name: pods
+      labels:
+        type: pods
+    spec:
+      containers:
+        - name: node
+          image: node:lts-alpine
+  replicas: 2
+  selector:
+    matchLabels:
+      type: pods
