@@ -1,46 +1,15 @@
-# Entregable 1 - Semanas 1 y 2
+# Entregable 1
 
-## How to start the app on a LOCAL ENV
+## - Semanas 1 y 2
 
-Requirements
+1) Kubernetes
   - Pod de Kubernetes desplegando el contenedor ( carpeta kubert )
   - ![alt text](https://github.com/Sigma246/entregables/blob/main/kubert/kubert.png?raw=true)
 
-1) Set the api url on the file `src/lib/api/configuration`
-
-```javascript
-  export const ENDPOINT = process.env.NODE_ENV === "development"
-    ? "http://127.0.0.1:3000/"          // url for LOCAL
-    : "https://saaf.herokuapp.com/";    // url for BUILD
-```
-
-2) Run this command just the first time
-
-```bash
-  npm install
-```
-
-3) Start the application
-
-```
-  npm start
-```
-
-
-## How to build the app for a PRODUCTION ENV
-
-1) Set the api url on the file `src/lib/api/configuration`
-
-```javascript
-  export const ENDPOINT = process.env.NODE_ENV === "development"
-    ? "http://127.0.0.1:3000/"          // url for LOCAL
-    : "https://saaf.herokuapp.com/";    // url for BUILD
-```
-
-2) Start the application
-
-```
-  npm run build
-```
-
-3) Copy the content of build folder on the S3 or server
+2) Git
+  - Screenshots para el flujo de creación de ramas: git branch, git checkout, git switch
+  - ![alt text](https://github.com/Sigma246/entregables/blob/main/kubert/kubert.png?raw=true)
+  - ![alt text](https://github.com/Sigma246/entregables/blob/main/kubert/kubert.png?raw=true)
+  - ![alt text](https://github.com/Sigma246/entregables/blob/main/kubert/kubert.png?raw=true)
+  - Screenshots para el flujo de unión y almacenamiento de ramas: git merge, git stash
+  - Screenshot para el flujo de integración de ramas: git rebase, git cherry-pick
