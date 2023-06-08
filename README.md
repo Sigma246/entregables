@@ -32,3 +32,7 @@
    ![alt text](https://github.com/Sigma246/entregables/blob/main/Docker%20Compose/build.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/main/Docker%20Compose/coneccted%20successfully.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/main/Docker%20Compose/localhost.png?raw=true)
+
+7) Tópicos replicados de Kafka
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20rebase.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/cherry-pick.png?raw=true)
