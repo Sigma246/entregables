@@ -40,6 +40,6 @@
    ![alt text](https://github.com/Sigma246/entregables/blob/main/Cloudwatch/Cloudwatch.png?raw=true)
 
 9) Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint (o GraphQL Endpoint) de la API Gateway asociada a la función Lambda
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/Cloudwatch/Cloudwatch.png?raw=true)
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/Cloudwatch/Cloudwatch.png?raw=true)
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/Cloudwatch/Cloudwatch.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/apiGateway.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/lambda.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/endpoint.png?raw=true)
