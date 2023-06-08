@@ -19,5 +19,5 @@
 
 
   - Screenshot para el flujo de integración de ramas: git rebase, git cherry-pick
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20merge.png?raw=true)
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20stash.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20rebase.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/cherry-pick.png?raw=true)
