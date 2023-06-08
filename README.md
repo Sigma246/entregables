@@ -12,12 +12,18 @@
    ![alt text](https://github.com/Sigma246/entregables/blob/git/git/git%20checkout.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/git/git/git%20switch.png?raw=true)
 
-
+3) Git
   - Screenshots para el flujo de unión y almacenamiento de ramas: git merge, git stash
    ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20merge.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20stash.png?raw=true)
 
-
+4) Git
   - Screenshot para el flujo de integración de ramas: git rebase, git cherry-pick
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20rebase.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/cherry-pick.png?raw=true)
+
+5) Dockerfile ejecutable ( carpeta Docker )
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20rebase.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/git/cherry-pick.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/main/git/git%20rebase.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/main/git/cherry-pick.png?raw=true)
