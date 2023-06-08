@@ -35,3 +35,6 @@
 
 7) Tópicos replicados de Kafka ( carpeta kafka )
    ![alt text](https://github.com/Sigma246/entregables/blob/main/kafka/replicas.png?raw=true)
+
+8) Captura de pantalla de logs en Cloudwatch
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/kafka/replicas.png?raw=true)
