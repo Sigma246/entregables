@@ -45,6 +45,6 @@
    ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/endpoint.png?raw=true)
 
 10) Captura de pantalla de la base de datos replicada
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/apiGateway.png?raw=true)
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/apiGateway.png?raw=true)
-   ![alt text](https://github.com/Sigma246/entregables/blob/main/apiGateway/apiGateway.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/mongo%20replicas/configuracion.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/mongo%20replicas/aplicando.png?raw=true)
+   ![alt text](https://github.com/Sigma246/entregables/blob/main/mongo%20replicas/replicas.png?raw=true)
