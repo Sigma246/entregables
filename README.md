@@ -7,6 +7,7 @@
   - ![alt text](https://github.com/Sigma246/entregables/blob/main/kubert/kubert.png?raw=true)
 
 2) Git
+
   - Screenshots para el flujo de creación de ramas: git branch, git checkout, git switch
    ![alt text](https://github.com/Sigma246/entregables/blob/git/git/git%20branch.png?raw=true)
    ![alt text](https://github.com/Sigma246/entregables/blob/git/git/git%20checkout.png?raw=true)
